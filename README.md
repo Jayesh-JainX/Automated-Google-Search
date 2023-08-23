@@ -18,14 +18,14 @@ This script automates Google searches using the `pyautogui` library. It performs
 
 ## How to Use
 
-1. Clone this repository or download the script (`automated_search.py`) directly.
+1. Clone this repository or download the script (`random_search.py`) directly.
 
 2. Open the terminal/command prompt and navigate to the directory containing the script.
 
 3. Run the script using the following command:
 
     ```
-    python automated_search.py
+    python random_search.py
     ```
 
 4. The script will perform automated Google searches on both a PC-like and a mobile-like interface.
