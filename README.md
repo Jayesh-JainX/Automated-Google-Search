@@ -18,7 +18,7 @@ This script automates Google searches using the `pyautogui` library. It performs
 
 ## How to Use
 
-1. Clone this repository or download the script (`random_search.py`) directly.
+1. Clone this repository or download the script ([random_search.py](/random_search.py)) directly.
 
 2. Open the terminal/command prompt and navigate to the directory containing the script.
 
