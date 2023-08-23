@@ -8,7 +8,10 @@ This script automates Google searches using the `pyautogui` library. It performs
 - `pyautogui` and `random_word` libraries installed. Install them using:
 
     ```
-    pip install pyautogui random_word
+    pip install pyautogui
+    ```
+    ```
+    pip install random_word
     ```
 
 - Google Chrome browser installed at the specified path.
